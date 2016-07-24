@@ -63,4 +63,7 @@ of license - but the higher you go the less people will be able to use it.
 |Vinyl Distortion||✅|✅|
 |Vocoder||✅|✅|
 
+### Free Resources
+
+Free Ableton Packs - https://www.ableton.com/en/packs/?scope=available_packs&pack_type=all&tag=all&price=free#?item_type=free
 
